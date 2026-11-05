@@ -57,11 +57,6 @@ Os projetos serão destacados aqui conforme alcançarem um estado utilizável e 
 | Projeto | Descrição | Status |
 |---|---|---|
 | Personal Portfolio | Central dos meus projetos, competências e contato. | Em desenvolvimento |
-| BarberFlow | Conceito de plataforma multi-tenant para barbearias. | Em desenvolvimento |
-| Nexus Dashboard | Conceito de painel para organização e visualização de dados operacionais. | Planejado |
-| PyAutomate | Ferramentas Python para automação e processamento de dados. | Planejado |
-| Sentinel Monitor | Projeto de estudo para monitoramento autorizado de hosts e serviços. | Planejado |
-| Cybersecurity Labs | Laboratórios documentados sobre Linux, redes, logs e segurança defensiva. | Em andamento |
 
 > Os links serão adicionados quando cada projeto tiver um repositório público e documentação próprios.
 
@@ -87,7 +82,5 @@ Os projetos serão destacados aqui conforme alcançarem um estado utilizável e 
 <div align="center">
 
 **Transformando ideias em software útil.**
-
-<sub>Preto • Branco • Verde-limão — #B7F33D</sub>
 
 </div>
