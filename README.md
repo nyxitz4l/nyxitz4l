@@ -1,40 +1,93 @@
-# Olá, eu sou Kayky 👋
+<div align="center">
 
-Profissional em transição de carreira para Segurança da Informação, com base
-prática em suporte técnico, administração de sistemas e desenvolvimento.
+# Kayky Santinelli
 
-- 🔎 Foco atual: fundamentos de Cybersecurity, resposta a incidentes, SOC
-- 🐍 Uso Python para automação, scripts e análise de dados
-- 🛠️ Venho de uma base sólida em suporte técnico e sistemas corporativos
-- 📚 Aprendendo continuamente 
+### Desenvolvedor Full Stack • Desenvolvimento Assistido por IA • Cibersegurança
 
----
+Construindo aplicações web modernas, sistemas práticos e soluções digitais.
 
-## 🎯 Objetivo
+[![GitHub](https://img.shields.io/badge/GitHub-nyxitz4l-181717?style=for-the-badge&logo=github)](https://github.com/nyxitz4l)
 
-Atuar como **Analista de Segurança da Informação Jr. / SOC**, aplicando
-conhecimento técnico na proteção de infraestrutura e resposta a incidentes.
+</div>
 
 ---
 
-## 🧠 Competências
+## 👋 Sobre mim
 
-**Segurança**
-`Fundamentos de Segurança da Informação` `CIA Triad` `Gestão de ameaças` `ITSM (Jira)`
+Sou desenvolvedor com foco na construção de aplicações web e produtos digitais, unindo desenvolvimento de software, fluxos de trabalho com apoio de inteligência artificial e interesse em cibersegurança.
+
+Gosto de transformar ideias e problemas reais em soluções úteis e bem estruturadas. Utilizo IA como ferramenta de produtividade durante o desenvolvimento, enquanto aprimoro continuamente meus conhecimentos em arquitetura, qualidade de código, bancos de dados, segurança de aplicações e publicação de sistemas.
+
+- 💻 Foco: Desenvolvimento Full Stack
+- 🤖 Interesse: Desenvolvimento assistido por IA e automações
+- 🔐 Estudando: Cibersegurança, redes e desenvolvimento seguro
+- 🧩 Construindo: Sites, sistemas de gestão e aplicações multi-tenant
+- 📚 Sempre aprendendo, desenvolvendo e documentando.
+
+## 🛠️ Tecnologias e ferramentas
+
+> Esta lista reúne tecnologias e áreas com as quais trabalho, estudo ou experimento. O README de cada projeto informa a stack realmente utilizada.
 
 **Desenvolvimento**
-`Python` `React` `FastAPI` `SQL` `Supabase` `Node.js` `Git/GitHub`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend, banco de dados e infraestrutura**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Áreas de interesse**
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=flat-square&logo=shieldsdotio&logoColor=B7F33D)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 🚀 Projetos em destaque
+
+Os projetos serão destacados aqui conforme alcançarem um estado utilizável e documentado. Prefiro apresentar implementações reais, decisões técnicas claras e demonstrações funcionais em vez de anunciar ideias inacabadas como produtos concluídos.
+
+| Projeto | Descrição | Status |
+|---|---|---|
+| Personal Portfolio | Central dos meus projetos, competências e contato. | Em desenvolvimento |
+| BarberFlow | Conceito de plataforma multi-tenant para barbearias. | Em desenvolvimento |
+| Nexus Dashboard | Conceito de painel para organização e visualização de dados operacionais. | Planejado |
+| PyAutomate | Ferramentas Python para automação e processamento de dados. | Planejado |
+| Sentinel Monitor | Projeto de estudo para monitoramento autorizado de hosts e serviços. | Planejado |
+| Cybersecurity Labs | Laboratórios documentados sobre Linux, redes, logs e segurança defensiva. | Em andamento |
+
+> Os links serão adicionados quando cada projeto tiver um repositório público e documentação próprios.
+
+## 🧠 No que estou evoluindo
+
+- Projetar aplicações Full Stack fáceis de manter.
+- Construir fluxos seguros de autenticação e autorização.
+- Trabalhar com bancos relacionais e modelos multi-tenant.
+- Automatizar tarefas com Python.
+- Aprimorar conhecimentos em redes, Linux e cibersegurança defensiva.
+- Escrever documentação, testes e explicações técnicas melhores.
+
+## 📌 Princípios de desenvolvimento
+
+- Desenvolver para resolver problemas reais.
+- Manter código e arquitetura compreensíveis.
+- Tratar segurança como parte do desenvolvimento.
+- Documentar decisões e instruções de execução.
+- Ser transparente sobre o que está pronto, experimental ou em andamento.
 
 ---
 
-## 🧪 Projetos
+<div align="center">
 
-- **DELFIA OPS** — Sistema em React para gerenciamento e acompanhamentos de chamados em campo pelo brasil.
+**Transformando ideias em software útil.**
 
----
+<sub>Preto • Branco • Verde-limão — #B7F33D</sub>
 
-## 📫 Contato
-
-- LinkedIn: [in/kaykysantinelli](https://linkedin.com/in/kaykysantinelli)
-- Portfólio: [ks-portfoliov1.vercel.app](https://ks-portfoliov1.vercel.app)
-- Email: kaykysantinelli@proton.me
+</div>
