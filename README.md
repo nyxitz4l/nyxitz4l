@@ -50,16 +50,6 @@ Gosto de transformar ideias e problemas reais em soluções úteis e bem estrutu
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=flat-square&logo=shieldsdotio&logoColor=B7F33D)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🚀 Projetos em destaque
-
-Os projetos serão destacados aqui conforme alcançarem um estado utilizável e documentado. Prefiro apresentar implementações reais, decisões técnicas claras e demonstrações funcionais em vez de anunciar ideias inacabadas como produtos concluídos.
-
-| Projeto | Descrição | Status |
-|---|---|---|
-| Personal Portfolio | Central dos meus projetos, competências e contato. | Em desenvolvimento |
-
-> Os links serão adicionados quando cada projeto tiver um repositório público e documentação próprios.
-
 ## 🧠 No que estou evoluindo
 
 - Projetar aplicações Full Stack fáceis de manter.
